@@ -1,7 +1,7 @@
 [OrbTrack Thumbnail](https://github.com/Vaishnavi4497/OrbTrack-Dashboard/blob/main/Screenshot%20(1).png?raw=true)
 # 🌍 OrbTrack – A Space Sustainability Dashboard
 
-OrbTrack is a solo project developed for exploring orbital debris, global launch trends, and space sustainability using real-time open-source data.
+OrbTrack is my solo project developed for exploring orbital debris, global launch trends, and space sustainability using real-time open-source data.
 
 This project is built using:
 - 📊 Google Sheets
@@ -15,7 +15,7 @@ This project is built using:
 ## 📌 Key Visualizations:
 - Agency-wise Launches
 - Orbit Type Distributions
-- Collision Risk Zone (Low Earth Orbit)
+- Collision Risk Zone 
 - Year-wise Launch Trends
 - Top Countries Operating Satellites
 - Satellite & Debris Growth Over Time
