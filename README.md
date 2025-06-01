@@ -1,7 +1,7 @@
 [OrbTrack Thumbnail](https://github.com/Vaishnavi4497/OrbTrack-Dashboard/blob/main/Screenshot%20(1).png?raw=true)
 # 🌍 OrbTrack – A Space Sustainability Dashboard
 
-OrbTrack is a solo project developed by *Vaishnavi.D*, exploring orbital debris, global launch trends, and space sustainability using real-time open-source data.
+OrbTrack is a solo project developed for exploring orbital debris, global launch trends, and space sustainability using real-time open-source data.
 
 This project is built using:
 - 📊 Google Sheets
@@ -34,7 +34,7 @@ This project is built using:
 ---
 
 ## 🙋‍♀ About the Project:
-A solo project made as part of a personal learning journey in space sustainability and data visualization.  
+A solo project made as part of my personal learning journey in space sustainability and data visualization.  
 This dashboard aims to create awareness about the growing concern of space debris.
 
 ---
