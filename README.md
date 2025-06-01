@@ -1,3 +1,4 @@
+[OrbTrack Thumbnail](https://github.com/Vaishnavi4497/OrbTrack-Dashboard/blob/main/Screenshot%20(1).png?raw=true)
 # 🌍 OrbTrack – A Space Sustainability Dashboard
 
 OrbTrack is a solo project developed by *Vaishnavi.D*, exploring orbital debris, global launch trends, and space sustainability using real-time open-source data.
